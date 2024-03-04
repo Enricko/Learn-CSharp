@@ -1,0 +1,15 @@
+/home/ricky/Project/C#/learn-csharp/pertemuan1/bin/Debug/net8.0/pertemuan1
+/home/ricky/Project/C#/learn-csharp/pertemuan1/bin/Debug/net8.0/pertemuan1.deps.json
+/home/ricky/Project/C#/learn-csharp/pertemuan1/bin/Debug/net8.0/pertemuan1.runtimeconfig.json
+/home/ricky/Project/C#/learn-csharp/pertemuan1/bin/Debug/net8.0/pertemuan1.dll
+/home/ricky/Project/C#/learn-csharp/pertemuan1/bin/Debug/net8.0/pertemuan1.pdb
+/home/ricky/Project/C#/learn-csharp/pertemuan1/obj/Debug/net8.0/pertemuan1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricky/Project/C#/learn-csharp/pertemuan1/obj/Debug/net8.0/pertemuan1.AssemblyInfoInputs.cache
+/home/ricky/Project/C#/learn-csharp/pertemuan1/obj/Debug/net8.0/pertemuan1.AssemblyInfo.cs
+/home/ricky/Project/C#/learn-csharp/pertemuan1/obj/Debug/net8.0/pertemuan1.csproj.CoreCompileInputs.cache
+/home/ricky/Project/C#/learn-csharp/pertemuan1/obj/Debug/net8.0/pertemuan1.sourcelink.json
+/home/ricky/Project/C#/learn-csharp/pertemuan1/obj/Debug/net8.0/pertemuan1.dll
+/home/ricky/Project/C#/learn-csharp/pertemuan1/obj/Debug/net8.0/refint/pertemuan1.dll
+/home/ricky/Project/C#/learn-csharp/pertemuan1/obj/Debug/net8.0/pertemuan1.pdb
+/home/ricky/Project/C#/learn-csharp/pertemuan1/obj/Debug/net8.0/pertemuan1.genruntimeconfig.cache
+/home/ricky/Project/C#/learn-csharp/pertemuan1/obj/Debug/net8.0/ref/pertemuan1.dll

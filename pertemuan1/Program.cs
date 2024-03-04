@@ -1,3 +1,4 @@
+﻿namespace pertemuan1;
 using System;
 
 class Program
@@ -31,3 +32,4 @@ class Program
         return a - b;
     }
 }
+
