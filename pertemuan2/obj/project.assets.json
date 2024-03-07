@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ricky/Project/C#/learn-csharp/pertemuan1/pertemuan2/pertemuan2.csproj",
+      "projectUniqueName": "/home/ricky/Project/C#/learn-csharp/pertemuan2/pertemuan2.csproj",
       "projectName": "pertemuan2",
-      "projectPath": "/home/ricky/Project/C#/learn-csharp/pertemuan1/pertemuan2/pertemuan2.csproj",
+      "projectPath": "/home/ricky/Project/C#/learn-csharp/pertemuan2/pertemuan2.csproj",
       "packagesPath": "/home/ricky/.nuget/packages/",
-      "outputPath": "/home/ricky/Project/C#/learn-csharp/pertemuan1/pertemuan2/obj/",
+      "outputPath": "/home/ricky/Project/C#/learn-csharp/pertemuan2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ricky/.nuget/NuGet/NuGet.Config"

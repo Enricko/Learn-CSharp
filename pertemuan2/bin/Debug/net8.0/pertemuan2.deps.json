@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "pertemuan2/1.0.0": {
+        "runtime": {
+          "pertemuan2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pertemuan2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
